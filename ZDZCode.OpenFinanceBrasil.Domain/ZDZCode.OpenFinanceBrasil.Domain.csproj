@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>net7.0;net6.0</TargetFrameworks>
+	  <Version>7.0.0</Version>
+    <ImplicitUsings>enable</ImplicitUsings>
+	  <Copyright>ZDZCode</Copyright>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Authors>Zdzislaw Kochanski</Authors>
+	  <Company>ZDZCode Tecnologia da Informação Ltda</Company>
+	  <PackageIcon>logo.png</PackageIcon>
+	<PackageTags>OpenFinanceBrasil</PackageTags>
+  </PropertyGroup>
+	<ItemGroup>
+		<None Include="..\logo.png">
+		  <Pack>True</Pack>
+		  <PackagePath>\</PackagePath>
+		</None>
+	</ItemGroup>
+	<ItemGroup>
+	  <PackageReference Include="ZC.DomainModel.Core" Version="7.0.0.16269" />
+	</ItemGroup>
+</Project>
