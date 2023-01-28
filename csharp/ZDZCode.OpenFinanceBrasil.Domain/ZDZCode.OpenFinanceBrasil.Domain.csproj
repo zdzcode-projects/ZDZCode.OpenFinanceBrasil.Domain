@@ -11,12 +11,12 @@
 	<PackageTags>OpenFinanceBrasil</PackageTags>
   </PropertyGroup>
 	<ItemGroup>
-		<None Include="..\logo.png">
+		<None Include="..\..\logo.png">
 		  <Pack>True</Pack>
 		  <PackagePath>\</PackagePath>
 		</None>
 	</ItemGroup>
 	<ItemGroup>
-	  <PackageReference Include="ZC.DomainModel.Core" Version="7.0.0.16269" />
+	  <PackageReference Include="ZC.DomainModel.Core" Version="7.*" />
 	</ItemGroup>
 </Project>
