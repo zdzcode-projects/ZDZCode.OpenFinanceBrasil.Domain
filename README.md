@@ -1,5 +1,6 @@
 # ZDZCode.OpenFinanceBrasil.Domain
-Modelagem de dados base para o OpenFinance Brasil.
+
+Esse repositório foi criado com o objetivo de ajudar desenvolvedores a criar aplicações que se comuniquem com os sistemas de OpenBanking da plataforma. Ele contém todas as informações necessárias para que você possa desenvolver aplicativos para acessar os dados e serviços dos bancos, como contas, transações, pagamentos e outros.
 
 
 https://openfinancebrasil.atlassian.net/wiki/spaces/OF/overview
