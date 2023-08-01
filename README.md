@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/zdzcode/93ba4d86-cc79-46d9-99c3-92e1c97335e2/4fa16558-1d76-4d2f-b485-2ab7be4939b0/_apis/work/boardbadge/fcfc308a-db43-46b2-af93-3958addb5c42)](https://dev.azure.com/zdzcode/93ba4d86-cc79-46d9-99c3-92e1c97335e2/_boards/board/t/4fa16558-1d76-4d2f-b485-2ab7be4939b0/Microsoft.RequirementCategory)
 # ZDZCode.OpenFinanceBrasil.Domain
 
 Esse repositório foi criado com o objetivo de ajudar desenvolvedores a criar aplicações que se comuniquem com os sistemas de OpenBanking da plataforma. Ele contém todas as informações necessárias para que você possa desenvolver aplicativos para acessar os dados e serviços dos bancos, como contas, transações, pagamentos e outros.
